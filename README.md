@@ -1,4 +1,4 @@
-# Differentilaly-private-topic-mining
+# Differentially-private-topic-mining
 
 Related Paper: A Model-Agnostic Approach to Differentially Private Topic Mining
 
